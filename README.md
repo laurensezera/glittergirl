@@ -1,6 +1,6 @@
 # Glittergirl
 
-Glittergirl é uma marca de achadinhos e ofertas da Shopee, administrada por [SEU NOME]. Aqui eu selecionei produtos com bom custo-benefício e divulgo no Pinterest. Esta página é o site oficial da marca e contém a Política de Privacidade do meu aplicativo.
+Glittergirl é uma marca de achadinhos e ofertas da Shopee, administrada por [Lauren Sezera]. Aqui eu selecionei produtos com bom custo-benefício e divulgo no Pinterest. Esta página é o site oficial da marca e contém a Política de Privacidade do meu aplicativo.
 
 Vitrine de produtos: https://collshp.com/glittergirl
 
