@@ -27,6 +27,6 @@ Sou afiliada da Shopee. Ao comprar pelos links divulgados, posso receber uma com
 ---
 
 ## Privacy Policy (English)
-Last updated: [DATE]
+Last updated: 18.10.2026
 
 Glittergirl is a Shopee affiliate brand run by [Lauren Sezera]. This application is a personal tool used to publish pins on my own Pinterest account. It only accesses my own Pinterest account (boards and pin creation), and does not collect, store or share personal data from visitors or other Pinterest users. Product data comes from the official Shopee Affiliate API. Credentials are stored privately. We do not sell or share data with third parties. Pins contain affiliate links, and I may earn a commission at no extra cost to you. Contact: [laurensezera@gmail.com].
